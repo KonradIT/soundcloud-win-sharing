@@ -1,4 +1,4 @@
-// Copyright (c) 2012, SoundCloud Ltd.
+** Copyright (c) 2012, SoundCloud Ltd.**
 
 Purpose of this document
 ------------------------
